@@ -1,0 +1,15 @@
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.exe
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.deps.json
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.dll
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\bin\Debug\net6.0\03ExercicioEscolar.pdb
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.AssemblyReference.cache
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.dll
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\refint\03ExercicioEscolar.dll
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.pdb
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\03ExercicioEscolar.genruntimeconfig.cache
+C:\Users\vanes\Desktop\OOP\03ExercicioEscolar\obj\Debug\net6.0\ref\03ExercicioEscolar.dll

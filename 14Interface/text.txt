@@ -1,0 +1,11 @@
+Interface
+- Utilizada para criar exclusivamente METODOS OBRIGATORIOS;
+- Uma classe pode implementar várias Interfaces;
+- Os métodos da Interface não contêm cálculos, condicionais, laços e demais ações;
+double calculo(double numero);
+string texto();
+void mensagem(string nome, int idade);
+- No C# por padrão um método criado na Interface é abstrato e público;
+- Nas boas práticas do C#, toda a Interface tem a inicial I, em seguida o nome da interface:
+IPadrao
+ICalculo

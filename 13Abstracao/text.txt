@@ -1,0 +1,10 @@
+Abstração
+
+- Classe que pode conter métodos obrigatórios para todas as classes que a herdarem;
+- É possível criar métodos convencionais (não obrigatórios), para que as classes que herdem consigam utilizar;
+- Não é possível instaciar uma classe abstrata, exemplo: Produto prod = new Produto();
+- Padrão utilizado em projetos com muitos desenvolvedores, pois garante uma estrutura pré-moldada com ações que podem ser realizadas;
+- Como é utilizada a herança, cada classe pode herdar apenas uma classe abstrata;
+
+class Produto : PadraoProduto > Ok
+class Produto : PadraoProduto, CalculoImpostos > Falha

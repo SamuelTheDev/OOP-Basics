@@ -1,0 +1,15 @@
+using Systema;
+
+class Pessoa 
+{
+    //Construtor > é executado assim q vc intacia um objeto de uma determinada classe > Todo construtor é public
+    public Pessoa()
+    {
+        Console.WriteLine("Construtor Executado");
+    }
+
+    public Pessoa(string nome)
+    {
+        Console.WriteLine("Olá " + nome);
+    }
+}

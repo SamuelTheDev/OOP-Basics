@@ -1,0 +1,1 @@
+﻿Colaborador C = new Colaborador("Samu", 23, 2000);
